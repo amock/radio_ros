@@ -1,4 +1,4 @@
-# radio_ros
+# radio_ros -- Example Ros Package (Python) 
 
 ## Radio Example of Ros Nodes, Subscriber, Publisher, Topics
 
